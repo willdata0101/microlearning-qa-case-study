@@ -2,7 +2,7 @@
 
 ### **Project Overview**
 
-The goal of this project is to demonstrate a realistic QA case study for a hypothetical microlearning services website. Below, I've documented a comprehensive QA workflow including test cases, negative/edge cases, testing results, bug reports in Jira, and bonus Postman test coverage with Python and pytest.
+The goal of this project is to demonstrate a realistic QA case study for a hypothetical microlearning services website. Below, I've documented a sample QA workflow including test cases, negative/edge cases, testing results, bug reports in Jira, and bonus Postman test coverage with Python and pytest.
 
 **Tools Used**
 - Jira
